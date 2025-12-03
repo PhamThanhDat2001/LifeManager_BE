@@ -180,5 +180,5 @@ LifeManager là một nền tảng web app quản lý cuộc sống toàn diện
 * AI viết nhật ký / tóm tắt ngày / weekly review
 
 </details>
----
+
 
